@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+openai-whisper
+spacy
+# spacy model needs to be installed separately: python -m spacy download en_core_web_sm
+requests
+python-docx
+openpyxl
